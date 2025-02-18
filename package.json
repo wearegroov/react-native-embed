@@ -1,5 +1,5 @@
 {
-  "name": "@wearegroovreact-native-embed",
+  "name": "@wearegroov/react-native-embed",
   "version": "0.0.1",
   "description": "Groov library for embedded react native component",
   "main": "index.js",
